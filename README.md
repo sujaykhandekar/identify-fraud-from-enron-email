@@ -10,6 +10,9 @@ Enron had a second life because of its data set that includes one of the largest
 A person of interest is a person who was:
 
 indicted
+
 settled without admitting being guilty
+
 testified in exchange for immunity
+
 The aggregated Enron email + financial dataset is stored in a dictionary, where each key in the dictionary is a person’s name, and the value is a dictionary containing all the features of that person.
