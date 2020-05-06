@@ -5,7 +5,7 @@ Enron was an energy trading company that was one of the top 10 largest companies
 
 selling assets to shell companies at the end of each month, and buying them back at the beginning of the next month to hide accounting losses
 causing electrical grid failures in California
-Enron had a second life because of its data set that includes one of the largest corpus of real emails. We will use this data set combined with financial information to indetify persons of interest involved in this fraud by implementing machine learning techniques.
+Enron had a second life because of its data set that includes one of the largest corpus of real emails.I have used this data set combined with financial information to indetify persons of interest involved in this fraud by implementing machine learning techniques.
 
 A person of interest is a person who was:
 
